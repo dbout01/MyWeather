@@ -40,7 +40,7 @@ I found these websites useful in developing this software:
 
 * [Firebase Documentation 1](https://firebase.google.com/docs/firestore)
 * [Firebase Documentation 2](https://firebase.google.com/docs/firestore)
-* [OpeanWeather API](https://openweathermap.org/api)
+* [OpenWeather API](https://openweathermap.org/api)
 
 ## Future Work
 
