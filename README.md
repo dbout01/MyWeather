@@ -43,6 +43,4 @@ I found these websites useful in developing this software:
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
-
-* [ ] Use new weather api service
 * [ ] More graceful error handling
